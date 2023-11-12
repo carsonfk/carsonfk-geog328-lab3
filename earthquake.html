@@ -97,7 +97,7 @@
                 cell2.innerHTML = earthquakes.features[i].properties.mag;
                 cell3.innerHTML = new Date(earthquakes.features[i].properties.time).toLocaleDateString(
                     "en-US");
-            }
+        }
 
             map.on('load', function loadingData() {
 
