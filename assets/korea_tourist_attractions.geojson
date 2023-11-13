@@ -14,7 +14,11 @@
 { "type": "Feature", "properties": { "id": "feature9", "name": "Shinhwa World", "year": 2017}, "geometry": { "type": "Point", "coordinates": [126.31711983508676, 33.30650780099641] } },
 { "type": "Feature", "properties": { "id": "feature10", "name": "Memorial Hall for Incheon Landing Operation", "year": 1984}, "geometry": { "type": "Point", "coordinates": [126.65472183295626, 37.42231720234591] } },
 { "type": "Feature", "properties": { "id": "feature11", "name": "Skyroad", "year": 2013}, "geometry": { "type": "Point", "coordinates": [127.42833780992795, 36.328267659686276] } },
-{ "type": "Feature", "properties": { "id": "feature12", "name": "War Memorial of Korea", "year": 1993}, "geometry": { "type": "Point", "coordinates": [126.97715042573698, 37.536699455407906] } }
+{ "type": "Feature", "properties": { "id": "feature12", "name": "War Memorial of Korea", "year": 1993}, "geometry": { "type": "Point", "coordinates": [126.97715042573698, 37.536699455407906] } },
+{ "type": "Feature", "properties": { "id": "feature13", "name": "Lotte World Tower", "year": 2017}, "geometry": { "type": "Point", "coordinates": [127.10250008155774, 37.51262576828062] } },
+{ "type": "Feature", "properties": { "id": "feature14", "name": "Statue of Gangnam Style", "year": 2015}, "geometry": { "type": "Point", "coordinates": [127.06074448340743, 37.51247257896716] } },
+{ "type": "Feature", "properties": { "id": "feature15", "name": "Korea University", "year": 1905}, "geometry": { "type": "Point", "coordinates": [127.03243436484189, 37.58955753090171] } },
+{ "type": "Feature", "properties": { "id": "feature16", "name": "Songdo Central Park", "year": 2009}, "geometry": { "type": "Point", "coordinates": [126.63967323506805, 37.39297546265842] } }
 
 
 ]
